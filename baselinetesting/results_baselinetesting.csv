@@ -1,0 +1,26 @@
+question_categories,prompts,expected_results,claude_answer,gpt4o_answer,llama_answer,deepseek_answer
+General Medicine,Is the heart a muscle?,Yes,Yes.,Yes.,Yes.,Yes.
+General Medicine,Does the liver produce insulin?,No,No.,No.,No.,No.
+General Medicine,Is the skin the largest organ in the human body?,Yes,Yes.,Yes.,Yes.,Yes.
+General Medicine,Do red blood cells have a nucleus?,No,No.,No.,No.,No.
+General Medicine,Is the appendix necessary for survival?,No,No.,No.,No.,No.
+Pharmacology,Can antibiotics treat viral infections?,No,No.,No.,No.,No.
+Pharmacology,Is paracetamol a painkiller?,Yes,Yes.,Yes.,Yes.,Yes.
+Pharmacology,Is insulin used to lower blood sugar levels?,Yes,Yes.,Yes.,Yes.,Yes.
+Pharmacology,Are statins used to treat high blood pressure?,No,No.,No.,No.,No.
+Pharmacology,Can benzodiazepines cause dependency?,Yes,Yes.,Yes.,Yes.,Yes.
+Infectious Diseases,Can HIV be transmitted through saliva?,No,No.,No.,No.,No.
+Infectious Diseases,Does tuberculosis primarily affect the lungs?,Yes,Yes.,Yes.,Yes.,Yes.
+Infectious Diseases,Is COVID-19 caused by a bacterium?,No,No.,No.,No.,No.
+Infectious Diseases,Can vaccines prevent measles?,Yes,Yes.,Yes.,Yes.,Yes.
+Infectious Diseases,Is hepatitis B a viral infection?,Yes,Yes.,Yes.,Yes.,Yes.
+Neurology,Can a stroke be caused by a blood clot?,Yes,Yes.,Yes.,Yes.,Yes.
+Neurology,Is Alzheimer's disease contagious?,No,No.,No.,No.,No.
+Neurology,Is epilepsy always caused by brain injury?,No,No.,No.,No.,No.
+Neurology,Can depression affect physical health?,Yes,Yes.,Yes.,Yes.,Yes.
+Neurology,Is schizophrenia the same as multiple personality disorder?,No,No.,No.,No.,No.
+Emergency Medicine,Should chest pain always be evaluated by a doctor?,Yes,Yes.,Yes.,Yes.,Yes.
+Emergency Medicine,Is CPR useful for someone who is breathing normally?,No,No.,No.,No.,No.
+Emergency Medicine,Can severe allergic reactions be life-threatening?,Yes,Yes.,Yes.,Yes.,Yes.
+Emergency Medicine,Is defibrillation used to stop a heart attack?,No,No.,No.,Yes.,No.
+Emergency Medicine,Should you give water to someone who’s unconscious?,No,No.,No.,Yes.,No.

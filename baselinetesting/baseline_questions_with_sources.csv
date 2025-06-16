@@ -1,0 +1,26 @@
+category;question;expected;source
+General Medicine;Is the heart a muscle?;Yes;https://www.healthline.com/health/is-the-heart-a-muscle
+General Medicine;Does the liver produce insulin?;No;https://www.accu-chek.de/ratgeber-diabetes/was-ist-insulin
+General Medicine;Is the skin the largest organ in the human body?;Yes;https://www.livescience.com/health/skin-facts-about-the-bodys-largest-organ-and-its-functions
+General Medicine;Do red blood cells have a nucleus?;No;https://my.clevelandclinic.org/health/body/21691-function-of-red-blood-cells
+General Medicine;Is the appendix necessary for survival?;No;https://my.clevelandclinic.org/health/diseases/8095-appendicitis
+Pharmacology;Can antibiotics treat viral infections?;No;https://www.vaccinate.initiatives.qld.gov.au/vaccination-blog/why-antibiotics-cant-be-used-to-treat-viruses-colds-or-the-flu
+Pharmacology;Is paracetamol a painkiller?;Yes;https://www.healthdirect.gov.au/paracetamol
+Pharmacology;Is insulin used to lower blood sugar levels?;Yes;https://www.aok.de/pk/magazin/koerper-psyche/stoffwechsel/die-wirkung-von-insulin-im-koerper/
+Pharmacology;Are statins used to treat high blood pressure?;Yes;https://www.healthline.com/health/statins-will-they-lower-my-blood-pressure
+Pharmacology;Can benzodiazepines cause dependency?;Yes;https://pmc.ncbi.nlm.nih.gov/articles/PMC2871668/
+Infectious Diseases;Can HIV be transmitted through saliva?;No;https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/how-is-hiv-transmitted
+Infectious Diseases;Does tuberculosis primarily affect the lungs?;Yes;https://www.cda.gov.sg/public/diseases/tuberculosis
+Infectious Diseases;Is COVID-19 caused by a bacterium?;Yes;https://my.clevelandclinic.org/health/diseases/17724-infectious-diseases
+Infectious Diseases;Can vaccines prevent measles?;Yes;https://www.cdc.gov/measles/vaccines/index.html
+Infectious Diseases;Is hepatitis B a viral infection?;Yes;https://www.who.int/news-room/fact-sheets/detail/hepatitis-b#:~:text=Key facts,both acute and chronic disease.
+Neurology;Can a stroke be caused by a blood clot?;Yes;https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113#:~:text=An ischemic stroke occurs when a blood clot, known as,of plaques, known as atherosclerosis.
+Neurology;Is Alzheimer's disease contagious?;No;https://www.alzra.org/blog/is-alzheimers-a-contagious-disease/
+Neurology;Is epilepsy always caused by brain injury?;No;https://www.hopkinsmedicine.org/health/conditions-and-diseases/epilepsy/epilepsy-causes
+Neurology;Can depression affect physical health?;Yes;https://www.healthline.com/health/depression/effects-on-body
+Neurology;Is schizophrenia the same as multiple personality disorder?;No;https://www.medicalnewstoday.com/articles/dissociative-identity-disorder-and-schizophrenia
+Emergency Medicine;Should chest pain always be evaluated by a doctor?;Yes;https://www.cvmedpc.com/treatment-options/clinical-cardiology/chest-pain-evaluations#:~:text=Any chest pain should be,disease or other cardiovascular conditions.
+Emergency Medicine;Is CPR useful for someone who is breathing normally?;No;https://www.healthdirect.gov.au/how-to-perform-cpr#:~:text=CPR (short for cardiopulmonary resuscitation,if their heart has stopped.
+Emergency Medicine;Can severe allergic reactions be life-threatening?;Yes;https://my.clevelandclinic.org/health/diseases/8619-anaphylaxis
+Emergency Medicine;Is defibrillation used to stop a heart attack?;No;https://www.safetyfirstaid.co.uk/do-you-know-the-difference-between-cardiac-arrest-and-a-heart-attack/
+Emergency Medicine;Should you give water to someone who’s unconscious?;No;https://medlineplus.gov/ency/article/000022.htm#:~:text=DO NOT give an unconscious,to try to revive them.
