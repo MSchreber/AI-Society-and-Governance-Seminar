@@ -96,7 +96,7 @@ Fact-based medical questions were submitted to each model to evaluate:
 
 ## Contact
 
-**Maximilian Schreber**  
-max.schreber@tum.de  
-[linkedin.com/in/maximilian-schreber](www.linkedin.com/in/maximilian-stefan-schreber-209513299)  
-[github.com/MSchreber](https://github.com/MSchreber)
+Maximilian Schreber  
+📧 max.schreber@tum.de  
+🔗 [LinkedIn](https://www.linkedin.com/in/maximilian-stefan-schreber-209513299)  
+💻 [GitHub Profile](https://github.com/MSchreber) 
