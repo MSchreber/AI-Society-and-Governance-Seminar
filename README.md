@@ -98,5 +98,5 @@ Fact-based medical questions were submitted to each model to evaluate:
 
 **Maximilian Schreber**  
 max.schreber@tum.de  
-[linkedin.com/in/maximilian-schreber](https://www.linkedin.com/in/maximilian-schreber)  
+[linkedin.com/in/maximilian-schreber](www.linkedin.com/in/maximilian-stefan-schreber-209513299)  
 [github.com/MSchreber](https://github.com/MSchreber)
